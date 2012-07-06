@@ -26,6 +26,9 @@ end
 
 gem 'jquery-rails'
 
+#Inclui Gem webrat
+gem 'webrat' 
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
